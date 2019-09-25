@@ -3,7 +3,7 @@ Conversor de moeda
 
 --------------------
 
-- Programa Desenvolvido para uma viagem a Buenos Aires.
+- Aplicativo Desenvolvido para uma viagem a Buenos Aires.
 
 --------------------
 
